@@ -22,7 +22,7 @@ React app uses:
 * Toast Notifications
 * Styled Components
 
-This time I added SQL Authentication to the database to alter the connection string and show some use of db roles.
+This time I added SQL Authentication to the database to alter the connection string and show some use of db roles.</br>
 **The user for the db is "dev" and password "abc123".**
 
 To run this project locally you need to:
