@@ -28,7 +28,7 @@ This time I added SQL Authentication to the database to alter the connection str
 To run this project locally you need to:
 * Run the database script
 * Build your connection string with the given credentials under the key `DevConnectionString` and store it in appsettings.json or create your secrets.js file.
-* Check for the url in the `app.UseCors(options => options.WithOrigins({YOUR_REACT_APP_LOCALHOST})`
+* Check for the url in the `app.UseCors(options => options.WithOrigins({YOUR_REACT_APP_LOCALHOST})` line in the `Startup.cs` class.
 * Run the NET Core API on your local server instance.
 * Open the react app and check under `src\actions\api.js` the value of `baseUrl` to match the local server instance of your NET Core API project. For Example: `const baseUrl = "http://localhost:53808/api/"`
 * That should be it, run the react app `npm start` and test it for yourself.
