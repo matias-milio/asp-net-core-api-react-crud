@@ -1,0 +1,381 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\WebApplication1\\ProductsAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\BussinesLogic\\BussinesLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\BussinesLogic\\BussinesLogic.csproj",
+        "projectName": "BussinesLogic",
+        "projectPath": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\BussinesLogic\\BussinesLogic.csproj",
+        "packagesPath": "C:\\Users\\Gaudi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\BussinesLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gaudi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\DTO\\DTO.csproj"
+              },
+              "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\Repository\\Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Gaudi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gaudi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\DTO\\DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\DTO\\DTO.csproj",
+        "projectName": "DTO",
+        "projectPath": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\DTO\\DTO.csproj",
+        "packagesPath": "C:\\Users\\Gaudi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gaudi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\Gaudi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gaudi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\DataAccess\\DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\WebApplication1\\ProductsAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\WebApplication1\\ProductsAPI.csproj",
+        "projectName": "ProductsAPI",
+        "projectPath": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\WebApplication1\\ProductsAPI.csproj",
+        "packagesPath": "C:\\Users\\Gaudi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\WebApplication1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gaudi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\BussinesLogic\\BussinesLogic.csproj": {
+                "projectPath": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\BussinesLogic\\BussinesLogic.csproj"
+              },
+              "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\DTO\\DTO.csproj": {
+                "projectPath": "C:\\Users\\Gaudi\\Documents\\Training\\react-crud-api-core - copia\\API\\net-core-products-api\\ProductsAPI\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.9.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

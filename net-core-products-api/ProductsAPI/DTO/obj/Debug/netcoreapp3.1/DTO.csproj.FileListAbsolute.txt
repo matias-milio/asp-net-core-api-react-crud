@@ -1,0 +1,8 @@
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache

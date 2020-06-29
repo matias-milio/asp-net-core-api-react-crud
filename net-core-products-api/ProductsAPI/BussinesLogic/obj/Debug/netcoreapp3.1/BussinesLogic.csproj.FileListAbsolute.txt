@@ -1,0 +1,15 @@
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\BussinesLogic\bin\Debug\netcoreapp3.1\BussinesLogic.deps.json
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\BussinesLogic\bin\Debug\netcoreapp3.1\BussinesLogic.dll
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\BussinesLogic\bin\Debug\netcoreapp3.1\BussinesLogic.pdb
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\BussinesLogic\obj\Debug\netcoreapp3.1\BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\BussinesLogic\obj\Debug\netcoreapp3.1\BussinesLogic.AssemblyInfo.cs
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\BussinesLogic\obj\Debug\netcoreapp3.1\BussinesLogic.dll
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\BussinesLogic\obj\Debug\netcoreapp3.1\BussinesLogic.pdb
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\BussinesLogic\obj\Debug\netcoreapp3.1\BussinesLogic.csprojAssemblyReference.cache
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\BussinesLogic\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\BussinesLogic\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\BussinesLogic\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\BussinesLogic\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\BussinesLogic\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\BussinesLogic\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\BussinesLogic\obj\Debug\netcoreapp3.1\BussinesLogic.csproj.CopyComplete

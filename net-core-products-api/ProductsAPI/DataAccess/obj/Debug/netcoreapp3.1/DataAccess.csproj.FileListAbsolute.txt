@@ -1,0 +1,10 @@
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Gaudi\Documents\Training\react-crud-api-core - copia\API\net-core-products-api\ProductsAPI\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
