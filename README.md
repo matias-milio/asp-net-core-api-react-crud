@@ -15,6 +15,10 @@ It uses features like:
 * Connection string in secrets.json
 * Cross-Origin Requests (CORS) to allow async calls from the React app
 
+**Upcoming features**
+* Server-Side validation.
+* Use of .NET Unit Testing Suite.
+
 React app uses:
 * Redux to manage state
 * Axios to make api calls
